@@ -1,0 +1,4 @@
+:host([theme~="grid-no-reaction"]) [part~="row"]:first-child  [part~="body-cell"]:not([part~="details-cell"]){
+    background-color: red;
+    pointer-events: none;
+}

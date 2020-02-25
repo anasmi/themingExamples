@@ -1,0 +1,4 @@
+:host([theme~="styledButton"]){
+    background-color: transparent;
+    border: aqua;
+}

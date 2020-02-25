@@ -1,0 +1,7 @@
+@Route("%s")
+public class %s extens VerticalLayout{
+
+    public %s {
+
+    }
+}
